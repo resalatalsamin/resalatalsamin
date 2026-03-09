@@ -7,8 +7,8 @@ Email Me 👉 ✉️ **resalat.al731@gmai.com** For Collaboration/Project or Any
 - 🚀 **Projects I am building:** Lurning Hub, eTuitionBD
 - 🌱 **I’m currently learning:** Next.js, Typescript
 - 🔍 **Find me:** On Linkedin
-- 💼 **Explore:** My Portfolio **[Resalat](https://portfolio-five-plum-36.vercel.app/)** and Resume
-- 📧 **How to reach me:** resalat.al731@gmail.com
+- 💼 **Explore:** My **[Portfolio](https://portfolio-five-plum-36.vercel.app/)** and **[Resume](https://drive.google.com)**
+- 📧 **How to reach me:** **[Email](resalat.al731@gmail.com)**
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me, I can't ignore
 
 
