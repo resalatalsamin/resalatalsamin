@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **resalat.al731@gmai.com** For Collaboration/Project or Any
 - 🚀 **Projects I am building:** Lurning Hub, eTuitionBD
 - 🗄️ **for the backend:** Using Node.js, Express.js, MongoDB .
 - 🌱 **I’m currently learning:** Next.js, Typescript
-- 🔍 **Find me:** On Linkedin
+- 🔍 **Find me:** On **[Linkedin](https://www.linkedin.com/in/resalat-al-samin-634766203/)**
 - 💼 **Explore:** My **[Portfolio](https://portfolio-five-plum-36.vercel.app/)** and **[Resume](https://drive.google.com)**
 - 📧 **How to reach me:** **[Email](resalat.al731@gmail.com)**
 - ⚡ **Fun fact:** I Love Tech and Tech Loves Me, I can't ignore
