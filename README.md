@@ -5,6 +5,7 @@ Email Me 👉 ✉️ **resalat.al731@gmai.com** For Collaboration/Project or Any
 
 - 🔭 **I’m currently working on:** Reactjs, Javascript
 - 🚀 **Projects I am building:** Lurning Hub, eTuitionBD
+- 🗄️ **for the backend:** Using Node.js, Express.js, MongoDB .
 - 🌱 **I’m currently learning:** Next.js, Typescript
 - 🔍 **Find me:** On Linkedin
 - 💼 **Explore:** My **[Portfolio](https://portfolio-five-plum-36.vercel.app/)** and **[Resume](https://drive.google.com)**
