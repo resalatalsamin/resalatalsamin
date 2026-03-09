@@ -3,10 +3,13 @@
 
 Email Me 👉 ✉️ **resalat.al731@gmai.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** An e learning platform
-- 🌱 **I’m currently learning:** Next.js
-- 📫 **How to reach me:** resalat.al731@gmail.com
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me, I can't ignore
+- 🔭 **I’m currently working on:** Reactjs, Javascript
+- 🚀 **Projects I am building:** Lurning Hub, eTuitionBD
+- 🌱 **I’m currently learning:** Next.js, Typescript
+- 🔍 **Find me:** On Linkedin
+- 💼 **Explore:** My Portfolio **[Resalat](https://portfolio-five-plum-36.vercel.app/)** and Resume
+- 📧 **How to reach me:** resalat.al731@gmail.com
+- ⚡ **Fun fact:** I Love Tech and Tech Loves Me, I can't ignore
 
 
 ## 🌐 Connect With Me
